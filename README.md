@@ -13,6 +13,6 @@ Wordcount with Beam GO - Caroline Finnerty
 
 First, install `golang`:
 
-```bash
+```Shell
 sudo apt install golang
 ```
