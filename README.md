@@ -1,8 +1,13 @@
-# big-data-group-demonstration-beam-go
+# Big Data Demonstration: Beam GO
 Group demonstration repo for Beam Go
 
-Installition - Michael Burnes
+## Members
+- Michael Burnes
+- Lindsay Gillespie
+- Caroline Finnerty
 
-Go 101 - Lindsay Gillespie
+## Subtopics
 
-Wordcount with Beam GO - Caroline Finnerty
+- [Installition] () 
+- [Go 101] () 
+- [Wordcount with Beam GO] ()
