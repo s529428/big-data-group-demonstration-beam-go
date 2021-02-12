@@ -10,4 +10,4 @@ Group demonstration repo for Beam Go
 
 - [Installition] () 
 - [Go 101] () 
-- [Wordcount with Beam GO] ()
+- [Wordcount with Beam GO] (https://github.com/s529428/big-data-group-demonstration-beam-go/blob/main/wordcount-with-go.md)
