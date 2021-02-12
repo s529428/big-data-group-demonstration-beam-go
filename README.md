@@ -9,5 +9,5 @@ Group demonstration repo for Beam Go
 ## Subtopics
 
 - [Installition]() 
-- [Go 101]() 
+- [Go 101](https://github.com/s529428/big-data-group-demonstration-beam-go/blob/main/Lindsay/Go101.md) 
 - [Wordcount with Beam GO](https://github.com/s529428/big-data-group-demonstration-beam-go/blob/main/wordcount-with-go.md)
