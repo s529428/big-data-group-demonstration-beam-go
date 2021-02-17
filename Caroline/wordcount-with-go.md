@@ -1,6 +1,8 @@
 # WordCount using Beam Go
 The following guide and demonstration will assume that you are using the Go Language playground or have installed Go and the necessary packages to run the Apache Beam SDK for Go and an IDE of your choice. You can find the playground here: [https://play.golang.org/](https://play.golang.org/)
 
+Would like to watch the video walkthrough? Go [here. https://use.vg/iac4uW](https://use.vg/iac4uW)
+
 To use beam within the playground, we must import it using the following code:
 
 ```Go
