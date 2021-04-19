@@ -1,3 +1,5 @@
+Video Presentation: https://www.youtube.com/watch?v=my4iKcjzt8A
+
 # Installing Golang
 
 ## Windows
